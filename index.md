@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to Peiliang Bai's personal page
 
-You can use the [editor on GitHub](https://github.com/peiliangbai92/peiliangbai92.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering at Georgia Institute of Technology. Prior to this position, I received my Ph.D. from the department of statistics at the University of Florida. My main research spans in change points detection, high dimensional time series analysis, spatio-temporal data analysis, and machine learning. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
