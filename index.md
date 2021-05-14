@@ -27,6 +27,8 @@ My main research spans in change points detection, high dimensional time series 
 ### Contact Information
 [My LinkedIn profile](https://www.linkedin.com/in/peiliang-bai-7b3ba4121/)
 
+[My Github](https://github.com/peiliangbai92) 
+
 [My Google Scholar](https://scholar.google.com/citations?user=DcOAoEQAAAAJ&hl=en)
 
 Email: baipl92@ufl.edu
