@@ -1,10 +1,14 @@
-## Peiliang Bai
-
-I am currently a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering (ISyE) at Georgia Institute of Technology. 
+### About me
+Welcome! I am currently a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering (ISyE) at Georgia Institute of Technology. 
 
 Prior to this position, I received my Ph.D. from the department of statistics at the University of Florida in April 2021, advised by Professor George Michailidis. Before coming to the University of Florida, I was major in mathematics and statistics in School of Mathematical Sciences at Peking University. 
 
 My main research spans in change points detection, high dimensional time series analysis, spatio-temporal data analysis, and machine learning. 
+
+
+### Education
+* Ph.D. in Statistics, University of Florida, FL, USA, August 2015 - April 2021
+* B.Sc. in Mathematics and Statistics, Peking University, Beijing, China, September 2011 - July 2015
 
 
 ### Research Publication
