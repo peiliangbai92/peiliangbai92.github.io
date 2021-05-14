@@ -7,8 +7,8 @@ My main research spans in change points detection, high dimensional time series 
 
 
 ### Education
-* Ph.D. in Statistics, University of Florida, FL, USA, August 2015 - April 2021
-* B.Sc. in Mathematics and Statistics, Peking University, Beijing, China, September 2011 - July 2015
+* Ph.D. in Statistics, University of Florida, FL, USA, Aug. 2015 - Apr. 2021
+* B.Sc. in Mathematics and Statistics, Peking University, Beijing, China, Sep. 2011 - Jul. 2015
 
 
 ### Research Publication
