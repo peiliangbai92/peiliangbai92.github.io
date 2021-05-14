@@ -1,37 +1,14 @@
-# Welcome to Peiliang Bai's personal page
+## Peiliang Bai
 
 I am currently a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering at Georgia Institute of Technology. Prior to this position, I received my Ph.D. from the department of statistics at the University of Florida. My main research spans in change points detection, high dimensional time series analysis, spatio-temporal data analysis, and machine learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Publication
+* **Peiliang Bai**, Yue Bai, Abolfazl Safikhani, George Michailidis, _Multiple Change Point Detection in Structural VAR Models: the VARDetect R Package_, _Journal of Statistical Software_, under review, 2021+
+* **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, _A Fast Detection Method of Break Points inEffective Functional Connectivity Networks_, _IEEE Transactions on Medical Imaging_, under review, 2021+
+* **Peiliang Bai**, George Michailidis, _Estimation of High-Dimensional Structured VAR models with Applications to Environmental Data_, _Journal of the American Statistical Association (Applications and Case Studies)_, in submission
+* **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, _Multiple Change Point Detection in Reduced Rank High Dimensional Vector Autoregressive Models_, _Journal of the American Statistical Association (Theory and Methods)_, under review, 2021+
+* **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, [_Multiple Change Points Detection in Low Rank and Sparse High Dimensional Vector Autoregressive Models_](https://ieeexplore.ieee.org/abstract/document/9091033), _IEEE Transactions on Signal Processing_, volume. 68, pp.3074-3089, 2020, doi:10.1109/TSP.2020.2993145 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peiliangbai92/peiliangbai92.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Talks
+* **Topics in Multiple Change Point Detection for Low Rank and Sparse High Dimensional VAR Models**, _Changepoint Workshop_, StatScale, Institut des Systemes Complexes, Paris, France, November 2019
+* **Joint Estimation of Structured Multivariate VAR Model**, _Joint Statistical Meetings (JSM)_, Denver, Colorado, July 2019
