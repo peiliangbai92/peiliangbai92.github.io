@@ -12,7 +12,7 @@ My main research spans in change points detection, high dimensional time series 
 
 
 ### Research Publication
-* **Peiliang Bai**, Yue Bai, Abolfazl Safikhani, George Michailidis, _Multiple Change Point Detection in Structural VAR Models: the VARDetect R Package_, _Journal of Statistical Software_, under review, 2021+, R package is available at [VARDetect](https://github.com/peiliangbai92/VARDetect)
+* **Peiliang Bai**, Yue Bai, Abolfazl Safikhani, George Michailidis, _Multiple Change Point Detection in Structural VAR Models: the VARDetect R Package_, _Journal of Statistical Software_, under review, 2021+, R package is available at [VARDetect](https://CRAN.R-project.org/package=VARDetect)
 * **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, _A Fast Detection Method of Break Points in Effective Functional Connectivity Networks_, _IEEE Transactions on Medical Imaging_, under review, 2021+
 * **Peiliang Bai**, George Michailidis, _Estimation of High-Dimensional Structured VAR models with Applications to Environmental Data_, _Journal of the American Statistical Association (Applications and Case Studies)_, in submission
 * **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, _Multiple Change Point Detection in Reduced Rank High Dimensional Vector Autoregressive Models_, _Journal of the American Statistical Association (Theory and Methods)_, under review, 2021+
