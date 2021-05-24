@@ -19,6 +19,11 @@ My main research spans in change points detection, high dimensional time series 
 * **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, [_Multiple Change Points Detection in Low Rank and Sparse High Dimensional Vector Autoregressive Models_](https://ieeexplore.ieee.org/abstract/document/9091033), _IEEE Transactions on Signal Processing_, volume. 68, pp.3074-3089, 2020, doi:10.1109/TSP.2020.2993145.
 
 
+### Softwares
+* [VARDetect](https://CRAN.R-project.org/package=VARDetect): Multiple Change Point Detection in Structural VAR Models
+* [LSVAR](https://CRAN.R-project.org/package=LSVAR): Estimation of Low Rank Plus Sparse Structured VAR Model R package
+
+
 ### Talks
 * **Topics in Multiple Change Point Detection for Low Rank and Sparse High Dimensional VAR Models**, _Changepoint Workshop_, StatScale, Institut des Systemes Complexes, Paris, France, November 2019
 * **Joint Estimation of Structured Multivariate VAR Model**, _Joint Statistical Meetings (JSM)_, Denver, Colorado, July 2019
