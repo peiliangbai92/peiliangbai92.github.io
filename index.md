@@ -25,6 +25,7 @@ My main research spans in change points detection, high dimensional time series 
 
 
 ### Talks
+* **Multiple Change Point Detection in Reduced Rank High Dimensional Vector Autoregressive Models**, _Changepoint Seminar_, StatScale, Virtual seminar, presented by Abolfazl Safikhani, June 2021
 * **Topics in Multiple Change Point Detection for Low Rank and Sparse High Dimensional VAR Models**, _Changepoint Workshop_, StatScale, Institut des Systemes Complexes, Paris, France, November 2019
 * **Joint Estimation of Structured Multivariate VAR Model**, _Joint Statistical Meetings (JSM)_, Denver, Colorado, July 2019
 
