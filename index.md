@@ -17,7 +17,7 @@ My main research spans in change points detection, high dimensional time series 
 * **Peiliang Bai**, George Michailidis, _Estimation of High-Dimensional Structured VAR models with Applications to Environmental Data_, _Journal of the American Statistical Association (Applications and Case Studies)_, in submission.
 * **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, _Multiple Change Point Detection in Reduced Rank High Dimensional Vector Autoregressive Models_, _Journal of the American Statistical Association (Theory and Methods)_, under review, 2021+.
 * **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, [_Multiple Change Points Detection in Low Rank and Sparse High Dimensional Vector Autoregressive Models_](https://ieeexplore.ieee.org/abstract/document/9091033), _IEEE Transactions on Signal Processing_, volume. 68, pp.3074-3089, 2020, doi:10.1109/TSP.2020.2993145.
-* **Peiliang Bai**, [Multiple Change Points Detection in Vector Autoregressive Models](https://github.com/peiliangbai92/peiliangbai92.github.io/blob/main/Dissertation_PeiliangBai.pdf), _PhD Thesis_.
+* **Peiliang Bai**, [Multiple Change Points Detection in Vector Autoregressive Models](<a href="peiliangbai.github.io/peiliangbai92.github.io/blob/main/Dissertation_PeiliangBai.pdf" target="_blank">PDF.</a>), _PhD Thesis_.
 
 
 ### Softwares
