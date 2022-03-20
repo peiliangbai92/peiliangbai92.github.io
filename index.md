@@ -1,10 +1,13 @@
 ### About me
 Welcome! I am currently a quantitative researcher at BlackRock Financial Modeling Group (FMG). 
 
-Prior to this position, I was a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering (ISyE) at Georgia Institute of Technology. I received my Ph.D. from the department of statistics at the University of Florida in April 2021, advised by Professor George Michailidis. Before coming to the University of Florida, I obtained B.S. in mathematics and statistics in School of Mathematical Sciences at Peking University in July 2015. 
+Prior to this position, I was a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering (ISyE) at Georgia Institute of Technology. I received my Ph.D. from the department of statistics at the University of Florida in April 2021, advised by Professor George Michailidis. Before coming to the University of Florida, I obtained B.Sc. in mathematics and statistics in School of Mathematical Sciences at Peking University in July 2015. 
 
 My main research spans in change points detection, high dimensional time series analysis, spatio-temporal data analysis, and machine learning. 
 
+### Professional Experience
+* Quantitative Researcher, BlackRock, New York City, NY, Mar. 2022 - Present
+* Postdoctoral Research Fellow, Georgia Institute of Technology, Atlanta, GA, May 2021 - Mar. 2022
 
 ### Education
 * Ph.D. in Statistics, University of Florida, FL, USA, Aug. 2015 - Apr. 2021
@@ -18,21 +21,10 @@ My main research spans in change points detection, high dimensional time series 
 * **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, [_Multiple Change Points Detection in Low Rank and Sparse High Dimensional Vector Autoregressive Models_](https://ieeexplore.ieee.org/abstract/document/9091033), _IEEE Transactions on Signal Processing_, volume. 68, pp.3074-3089, 2020, doi:10.1109/TSP.2020.2993145.
 * **Peiliang Bai**, [Multiple Change Points Detection in Vector Autoregressive Models](https://ufdc.ufl.edu/UFE0057394/00001), _PhD Thesis_.
 
-### In preparation
-* **Peiliang Bai**, George Michailidis, _Estimation of High-Dimensional Structured VAR models with Applications to Environmental Data_, _Journal of the American Statistical Association (Applications and Case Studies)_, in submission.
-* **Peiliang Bai**, Kamran Paynabar, _Multiple Change Points Detection in State-space Models_, in preparation.
-* **Peiliang Bai**, Kamran Paynabar, Lance Waller, _Bayesian Spatial-temporal SEIR(S) Model for COVID-19 Infectious Prediction in Georgia_, in preparation.
-
 
 ### Softwares
 * [VARDetect](https://CRAN.R-project.org/package=VARDetect): Multiple Change Point Detection in Structural VAR Models
 * [LSVAR](https://CRAN.R-project.org/package=LSVAR): Estimation of Low Rank Plus Sparse Structured VAR Model R package
-
-
-### Talks
-* **Multiple Change Point Detection in Reduced Rank High Dimensional Vector Autoregressive Models**, _Changepoint Seminar_, StatScale, Virtual seminar, presented by Abolfazl Safikhani, June 2021
-* **Topics in Multiple Change Point Detection for Low Rank and Sparse High Dimensional VAR Models**, _Changepoint Workshop_, StatScale, Institut des Systemes Complexes, Paris, France, November 2019
-* **Joint Estimation of Structured Multivariate VAR Model**, _Joint Statistical Meetings (JSM)_, Denver, Colorado, July 2019
 
 
 ### Contact Information
@@ -42,4 +34,4 @@ My main research spans in change points detection, high dimensional time series 
 
 [My Google Scholar](https://scholar.google.com/citations?user=DcOAoEQAAAAJ&hl=en)
 
-Email: baipl92@ufl.edu
+Email: baiplstat@gmail.com
