@@ -1,7 +1,7 @@
 ### About me
-Welcome! I am currently a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering (ISyE) at Georgia Institute of Technology. 
+Welcome! I am currently a quantitative researcher at BlackRock Financial Modeling Group (FMG). 
 
-Prior to this position, I received my Ph.D. from the department of statistics at the University of Florida in April 2021, advised by Professor George Michailidis. Before coming to the University of Florida, I was major in mathematics and statistics in School of Mathematical Sciences at Peking University. 
+Prior to this position, I was a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering (ISyE) at Georgia Institute of Technology. I received my Ph.D. from the department of statistics at the University of Florida in April 2021, advised by Professor George Michailidis. Before coming to the University of Florida, I obtained B.S. in mathematics and statistics in School of Mathematical Sciences at Peking University in July 2015. 
 
 My main research spans in change points detection, high dimensional time series analysis, spatio-temporal data analysis, and machine learning. 
 
