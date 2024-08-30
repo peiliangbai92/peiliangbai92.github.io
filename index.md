@@ -1,12 +1,13 @@
 ### About me
-Welcome! I am currently a quantitative researcher at BlackRock in the Financial Modeling Group (FMG).  
+Welcome! I am currently an applied scientist at Microsoft. 
 
-Prior to this position, I was a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering (ISyE) at Georgia Institute of Technology. I received my Ph.D. from the department of statistics at the University of Florida in April 2021, advised by Professor George Michailidis. Before coming to the University of Florida, I obtained B.Sc. in mathematics and statistics in School of Mathematical Sciences at Peking University in July 2015. 
+Prior to join Microsoft, I spent two and half years at BlackRock as a quantitative researcher. Before that, I was a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering (ISyE) at Georgia Institute of Technology. I received my Ph.D. from the department of statistics at the University of Florida in April 2021, advised by Professor George Michailidis. Before coming to the University of Florida, I obtained B.Sc. in mathematics and statistics in School of Mathematical Sciences at Peking University in July 2015. 
 
 My main research spans in change points detection, high dimensional time series analysis, spatio-temporal data analysis, and machine learning. 
 
 ### Professional Experience
-* Quantitative Researcher, BlackRock, New York City, NY, Mar. 2022 - Present
+* Applied Scientist, Microsoft, New York City, NY, Aug. 2024 - Present
+* Quantitative Researcher, BlackRock, New York City, NY, Mar. 2022 - Aug. 2024
 * Postdoctoral Research Fellow, Georgia Institute of Technology, Atlanta, GA, May 2021 - Mar. 2022
 
 ### Education
