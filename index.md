@@ -1,5 +1,5 @@
 ### About me
-Welcome! I am currently an applied scientist at Microsoft. 
+Welcome! I am currently a data and applied scientist at Microsoft. 
 
 Prior to join Microsoft, I spent two and half years at BlackRock as a quantitative researcher. Before that, I was a postdoctoral research fellow in the H. Milton Stewart School of Industrial & Systems Engineering (ISyE) at Georgia Institute of Technology. I received my Ph.D. from the department of statistics at the University of Florida in April 2021, advised by Professor George Michailidis. Before coming to the University of Florida, I obtained B.Sc. in mathematics and statistics in School of Mathematical Sciences at Peking University in July 2015. 
 
