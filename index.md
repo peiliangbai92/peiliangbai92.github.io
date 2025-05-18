@@ -17,7 +17,7 @@ My main research spans in change points detection, high dimensional time series 
 
 ### Research Publication
 * Sepideh Mosaferi, Abolfazl Safikhani, **Peiliang Bai**, [_Optimal Change Point Detection and Inference in the Spectral Density of General Time Series Models_](https://arxiv.org/abs/2503.23211), under review, 2025+.
-* Che-Yi Liao, **Peiliang Bai**, Lance Waller, Kamran Paynabar, _Estimating Hidden Epidemic: A Bayesian Spatiotemporal Compartmental Modelling Approach_, _Journal on Data Science_, to appear, 2025.
+* Che-Yi Liao, **Peiliang Bai**, Lance Waller, Kamran Paynabar, [_Estimating Hidden Epidemic: A Bayesian Spatiotemporal Compartmental Modelling Approach_](https://pubsonline.informs.org/doi/10.1287/ijds.2023.0020), _Journal on Data Science_, to appear, 2025.
 * **Peiliang Bai**, Abolfazl Safikhani, George Michaailidis, _Cohort Multiple Change Point Detection in Multivariate Vector Autoregressive Models_, in submission, 2024+.
 * **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, [_Multiple Change Point Detection in Reduced Rank High Dimensional Vector Autoregressive Models_](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2079514), _Journal of the American Statistical Association (Theory and Methods)_. 
 * **Peiliang Bai**, Abolfazl Safikhani, George Michailidis, [_A Fast Detection Method of Break Points in Effective Connectivity Networks_](https://ieeexplore.ieee.org/abstract/document/9627661), _IEEE Transactions on Medical Imaging_, doi:10.1109/TMI.2021.3131142.
